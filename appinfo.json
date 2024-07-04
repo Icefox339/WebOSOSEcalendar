@@ -1,0 +1,10 @@
+{
+    "id": "com.example.app.web6",
+    "version": "0.0.1",
+    "vendor": "My Company",
+    "type": "web",
+    "main": "index.html",
+    "title": "calendar",
+    "icon": "icon.png",
+    "requiredPermissions" : ["time.query"]
+}
